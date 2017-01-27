@@ -1,0 +1,4 @@
+Django==1.10.5
+bcrypt==3.1.2
+cffi==1.10.5
+pycparser==2.17
